@@ -34,7 +34,7 @@ const Gallery = () => {
         <div className="container-fluid">
             <div className="container">
                 <div className="row justify-content-center my-3">
-                    {["mountain", "beach", "bird", "food"].map((tag) => (
+                    {["mountain", "bird", "food"].map((tag) => (
                         <div className="w-auto" key={tag}>
                             <button
                   type="button"
