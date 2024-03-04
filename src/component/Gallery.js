@@ -30,7 +30,7 @@ const Gallery = () => {
 
     
     return (
-        <>
+        <> 
         <div className="container-fluid">
             <div className="container"> 
                 <div className="row justify-content-center my-3">
