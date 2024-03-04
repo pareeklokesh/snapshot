@@ -32,7 +32,7 @@ const Gallery = () => {
     return (
         <>
         <div className="container-fluid">
-            <div className="container">
+            <div className="container"> 
                 <div className="row justify-content-center my-3">
                     {["mountain", "bird", "food"].map((tag) => (
                         <div className="w-auto" key={tag}>
